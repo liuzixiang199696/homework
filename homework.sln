@@ -5,12 +5,6 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework", "homework\homework.csproj", "{C8C02502-E9DD-44AF-A88A-62F4A9CA9227}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sql", "sql", "{25A07B0D-746C-4B9F-9A6A-41DC98E37D46}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Documents\17bang\dbo.registered.sql = ..\..\..\Documents\17bang\dbo.registered.sql
-		..\..\..\Documents\17bang\dbo.seek_help.sql = ..\..\..\Documents\17bang\dbo.seek_help.sql
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
